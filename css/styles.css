@@ -1,0 +1,12 @@
+.dog{
+  margin: auto;
+}
+
+.container{
+  text-align: center;
+}
+
+.dark-background{
+  background-color: black;
+  color: white;
+}
